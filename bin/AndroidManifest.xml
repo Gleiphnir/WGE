@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="uow.hsckWE.WGZ.FightActivity"
+            android:label="@string/title_activity_fight" >
+        </activity>
+        <activity
+            android:name="uow.hsckWE.WGZ.MapActivity"
+            android:label="@string/title_activity_map" >
+        </activity>
     </application>
 
 </manifest>

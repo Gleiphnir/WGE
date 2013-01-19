@@ -14,18 +14,43 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int menu_settings=0x7f070000;
+        public static final int LinearLayout1=0x7f070004;
+        public static final int TextView01=0x7f070006;
+        public static final int TextView02=0x7f070009;
+        public static final int TextView04=0x7f07000c;
+        public static final int btStart=0x7f070001;
+        public static final int mapActivityHpTextView=0x7f070007;
+        public static final int mapActivityMainLayout=0x7f070002;
+        public static final int mapHpStatusLayout=0x7f070005;
+        public static final int mapLayout=0x7f070003;
+        public static final int mapWeaponStatusLayout=0x7f070008;
+        public static final int mapWeaponTextView=0x7f07000a;
+        public static final int mapZombiesStatusLayout=0x7f07000b;
+        public static final int mapZombiesTextView=0x7f07000d;
+        public static final int menu_settings=0x7f07000e;
+        public static final int textViewHP=0x7f070000;
     }
     public static final class layout {
-        public static final int activity_main=0x7f030000;
+        public static final int activity_fight=0x7f030000;
+        public static final int activity_main=0x7f030001;
+        public static final int activity_map=0x7f030002;
     }
     public static final class menu {
-        public static final int activity_main=0x7f060000;
+        public static final int activity_fight=0x7f060000;
+        public static final int activity_main=0x7f060001;
+        public static final int activity_map=0x7f060002;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
-        public static final int hello_world=0x7f040001;
-        public static final int menu_settings=0x7f040002;
+        public static final int default_hp_string=0x7f040005;
+        public static final int default_weapon_string=0x7f040007;
+        public static final int default_zombies_string=0x7f040009;
+        public static final int hp_string=0x7f040004;
+        public static final int menu_settings=0x7f040001;
+        public static final int title_activity_fight=0x7f040002;
+        public static final int title_activity_map=0x7f040003;
+        public static final int weapon_string=0x7f040006;
+        public static final int zombies_string=0x7f040008;
     }
     public static final class style {
         /** 
