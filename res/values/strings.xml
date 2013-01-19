@@ -2,7 +2,14 @@
 <resources>
 
     <string name="app_name">Windsor Garbage Zombies</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="title_activity_fight">Fight with Zombies!</string>
+    <string name="title_activity_map">Survival Map</string>
+    <string name="hp_string">HP:</string>
+    <string name="default_hp_string">100</string>
+    <string name="weapon_string">Weapon:</string>
+    <string name="default_weapon_string">NONE</string>
+    <string name="zombies_string">Zombies:</string>
+    <string name="default_zombies_string">0</string>
 
 </resources>
