@@ -11,5 +11,7 @@
     <string name="default_weapon_string">NONE</string>
     <string name="zombies_string">Zombies:</string>
     <string name="default_zombies_string">0</string>
+    <string name="start_survival_string">Start Survival!</string>
+    <string-array name="spawn_locations_x"></string-array>
 
 </resources>
